@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "module": "NodeNext",  // Output ES Module syntax
+      "target": "ES2020",        // Or ESNext, to use the latest features
+      "moduleResolution": "nodenext",
+      "rootDir": "./src",        // Input directory
+      "outDir": "./dist", // Output directory
+      "sourceMap": true,   
+      "strict": true,            // Enable strict type-checking
+      "esModuleInterop": true,   // Allow compatibility with CommonJS
+      "forceConsistentCasingInFileNames": true,
+      "skipLibCheck": true,
+      "resolveJsonModule": true,
+      
+    },
+    "include": ["src", "database"],          // Include TypeScript source files
+    "exclude": ["node_modules", "dist"] // Exclude node_modules and dist folders
+  } 
+  

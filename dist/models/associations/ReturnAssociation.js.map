@@ -1,0 +1,1 @@
+{"version":3,"file":"ReturnAssociation.js","sourceRoot":"","sources":["../../../src/models/associations/ReturnAssociation.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,oBAAoB,CAAC;AAClD,OAAO,EAAE,WAAW,EAAE,MAAM,yBAAyB,CAAC;AAEtD,MAAM,UAAU,wBAAwB;IACtC,8CAA8C;IAC9C,YAAY,CAAC,SAAS,CAAC,WAAW,EAAE;QAClC,UAAU,EAAE,eAAe;KAC5B,CAAC,CAAC;AACL,CAAC"}
